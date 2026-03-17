@@ -101,4 +101,4 @@ Target: BIST 100 companies (3-month PoC) → long-term contracts. Gross margin p
 
 ## Status
 
-🏁 **Ideathon concept** — Not yet in development. Presented at YZA Akademi Ideathon 2025.
+🏁 **Ideathon concept** — Not yet in development. Presented at YZA Akademi Ideathon 2026.
